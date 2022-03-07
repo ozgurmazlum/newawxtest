@@ -3,3 +3,4 @@ collections:
   # Install a collection from Ansible Galaxy.
   - name: community.vmware
     source: https://galaxy.ansible.com
+  - name: community.kubernetes
